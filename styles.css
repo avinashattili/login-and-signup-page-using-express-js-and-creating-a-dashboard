@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    margin-top: 150px;
+    background-image: url(https://images.unsplash.com/photo-1508615039623-a25605d2b022?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvZ2lufGVufDB8fDB8fHww );
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+}
+
+form {
+    max-width: 190px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+label, input {
+    display: inline;
+    margin: 10px 0;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 1px;
+}
+a{
+    margin-left: 675px;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+}
